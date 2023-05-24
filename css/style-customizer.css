@@ -27,7 +27,7 @@ div.style-customizer select { width: 100%; padding: 5px; border: 1px solid #b2bf
 .style-customizer .button { display: block; text-align: center; }
 
 /*Color Skins*/
-div.style-customizer .skin-default { background: #e93e21; }
+div.style-customizer .skin-default { background: var(--theme-color-primary); }
 div.style-customizer .skin-gold { background: #cd9b33; }
 div.style-customizer .skin-cyan { background: #7dcdcd; }
 div.style-customizer .skin-lime { background: #cfdf5a; }

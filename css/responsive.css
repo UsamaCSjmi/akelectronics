@@ -102,7 +102,7 @@ header { position: relative; background: #1e2327; }
 .mega-menu .mobileTriggerButton { z-index: 1; }
 .our-menu .middle-image { display: none; }
 .header-2 .mega-menu .menu-mobile-collapse-trigger { top: 11px; }
-.header-2 .mega-menu .menu-links > li.active > a, .header-2 .mega-menu .menu-links > li > a:hover { color: #e93e21; }
+.header-2 .mega-menu .menu-links > li.active > a, .header-2 .mega-menu .menu-links > li > a:hover { color: var(--theme-color-primary); }
 .header-2 .mega-menu .menu-links > li > a { line-height: normal; }
 .header-3 { top: 0px; }
 .header-3 .center-menu { min-height: 66px; padding: 0 15px; }
